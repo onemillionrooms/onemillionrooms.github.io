@@ -1,0 +1,26 @@
+.body{
+    border: none;
+    box-sizing: border-box;
+    background-color: blue;
+}
+.h2 {
+    float: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+a{
+    margin-left: 140px;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    font-size: 195%;
+    
+    
+}
+h4{
+    margin-bottom: 115px;
+}
+img{
+    height: 50%;
+    width: 22%;
+}
